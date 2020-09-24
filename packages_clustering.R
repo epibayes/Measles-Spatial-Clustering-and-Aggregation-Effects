@@ -1,0 +1,20 @@
+#packages - clustering
+
+library(ggplot2)
+library(maps)
+library(mapdata)
+library(maptools)
+library(gridExtra)
+library(here)
+library(tidyverse)
+library(spdep)
+require(dplyr)
+library(RANN)
+library(rgdal)
+library(RColorBrewer)
+library(knitr)
+library(magrittr)
+library(shapefiles)
+library(purrr)
+
+require(dplyr)
